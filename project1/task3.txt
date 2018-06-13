@@ -1,0 +1,90 @@
+{
+	"query": "Elizabeth",
+	"description": "all pages related to Elizabeth",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Elizabeth_II", 
+		"https://simple.wikipedia.org/wiki/Elizabeth_Taylor"
+	]
+},  
+{
+	"query": "twitter",
+	"description": "all pages related to twitter",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Twitter", 
+	]
+},  
+{
+	"query": "web",
+	"description": "all pages related to web",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Website", 
+		"https://simple.wikipedia.org/wiki/Spider_web"
+	]
+},  
+{
+	"query": "java",
+	"description": "all pages related to java",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Java_(programming_language)", 
+		"https://simple.wikipedia.org/wiki/Java"
+	]
+},  
+{
+	"query": "computer",
+	"description": "all pages related to computer",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Computer", 
+		"https://simple.wikipedia.org/wiki/Computer_science"
+	]
+},  
+{
+	"query": "elasticity",
+	"description": "all pages related to elasticity",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Elasticity_(physics)", 
+		"https://simple.wikipedia.org/wiki/Elasticity_(economics)"
+	]
+},  
+{
+	"query": "google",
+	"description": "all pages related to google",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Google", 
+		"https://simple.wikipedia.org/wiki/Google_Search",
+		"https://simple.wikipedia.org/wiki/Google_Chrome"
+	]
+},  
+{
+	"query": "virtual",
+	"description": "all pages related to virtual",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Virtual_machine", 
+		"https://simple.wikipedia.org/wiki/Virtual_private_network"
+	]
+},  
+{
+	"query": "wiki",
+	"description": "all pages related to wiki",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Wiki", 
+		"https://simple.wikipedia.org/wiki/Wiktionary"
+	]
+},  
+{
+	"query": "data",
+	"description": "all pages related to data",
+	"pages": 
+	[
+		"https://simple.wikipedia.org/wiki/Data", 
+		"https://simple.wikipedia.org/wiki/Database"
+	]
+}  
